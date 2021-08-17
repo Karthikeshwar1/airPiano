@@ -57,6 +57,7 @@ Coming soon!
 
 <h1 align="center"><img src="./data/icons/screenshot%20(1).png"></h1>
 
+[Demo video](https://youtu.be/3LomQPSjalA)
 
 <br>
 
@@ -71,8 +72,11 @@ Program is written in Python with the help of the following amazing tools:
 
 App icon was created by me.
 
-# License
+<br>
 
-[![License: GPL AGPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)s](https://choosealicense.com/licenses/agpl-3.0/)
+# ⚖️ License
+
+[![License: GPL AGPLv3](./data/icons/license-gnu-agplv3.svg)](https://choosealicense.com/licenses/agpl-3.0/)
+
 
 <br>
