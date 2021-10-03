@@ -16,10 +16,10 @@
 # :page_with_curl: Contents
 
 1. [Features](#Features)
-2. [Installation](#Installation)
-3. [Screenshots](https://github.com/Karthikeshwar1/Araam#screenshots)
-4. [Credits](https://github.com/Karthikeshwar1/Araam#credits)
-5. [License](https://github.com/Karthikeshwar1/Araam#license)
+2. [Installation](#%EF%B8%8F-installation)
+3. [Screenshots](#%EF%B8%8F-screenshots)
+4. [Credits](#-credits)
+5. [License](#%EF%B8%8F-license)
 
 <br>
 
