@@ -25,7 +25,7 @@
 
 # :sparkles: Description
 
-## Featurs:
+## Features:
 
 This program has two components:
 * airPiano: Play piano with fingers in the air
